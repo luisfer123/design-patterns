@@ -1,4 +1,4 @@
-package design_patterns.factory_method.products;
+package design_patterns.creational.factory_method.products;
 
 public class Sushi implements Dish {
 

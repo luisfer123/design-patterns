@@ -1,4 +1,4 @@
-package design_patterns.singleton;
+package design_patterns.creational.singleton;
 
 public class ThreadSafeSingleton {
 	
