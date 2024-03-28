@@ -1,9 +1,9 @@
-package design_patterns.factory_method;
+package design_patterns.creational.factory_method;
 
-import design_patterns.factory_method.factories.DishFactory;
-import design_patterns.factory_method.factories.PizzaFactory;
-import design_patterns.factory_method.factories.SushiFactory;
-import design_patterns.factory_method.products.Dish;
+import design_patterns.creational.factory_method.factories.DishFactory;
+import design_patterns.creational.factory_method.factories.PizzaFactory;
+import design_patterns.creational.factory_method.factories.SushiFactory;
+import design_patterns.creational.factory_method.products.Dish;
 
 public class Application {
 	
